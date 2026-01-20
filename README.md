@@ -23,13 +23,13 @@ A simple and attractive multi-page website built using **HTML and CSS** as part 
 
 ### 📁 Project Structure
 
-```
+
 multi-page-website/
 ├── index.html
 ├── about.html
 ├── contact.html
 ├── css/style.css
-``
+
 ---
 ### 🌍 Live Demo
 
